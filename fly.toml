@@ -1,6 +1,6 @@
 # fly.toml file generated for nested-routes-remix-on-flyio on 2021-12-14T02:20:12-05:00
 
-app = "nested-routes-remix-on-flyio"
+app = "nested-routes-remix"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
